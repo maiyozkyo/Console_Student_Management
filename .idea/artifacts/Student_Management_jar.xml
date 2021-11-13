@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Student_Management:jar">
+    <output-path>$PROJECT_DIR$/src/vn/edu/hcmus/_19127343/StudentManagement</output-path>
+    <root id="archive" name="Student_Management.jar">
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/src/vn/edu/hcmus/_19127343/StudentManagement/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="module-output" name="Student_Management" />
+    </root>
+  </artifact>
+</component>
